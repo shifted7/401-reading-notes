@@ -1,9 +1,9 @@
 # Reading 01: Exception Handing and Debugging
 ## Try/Catch blocks
-Place code that might raise or throw an exception in a try block
-Place code to execute during exception inside a catch block
-using System;
-using System.IO;
+  Place code that might raise or throw an exception in a try block
+  Place code to execute during exception inside a catch block
+`using System;`
+`using System.IO;`
 `try`
   `{`
   `}`
