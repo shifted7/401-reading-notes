@@ -21,3 +21,13 @@ catch (<error name> e)
   - Checked and unchecked: checked unchecked
   - fixed statement: fixed
   - lock statement: lock
+
+## C# in a Nutshell - pg 158-166
+
+## Therac-25
+- Radiation therapy machine
+- Six accidents in 80s resulting in injury and death caused by insufficient handling of exceptions
+
+## Ariane-5
+- 1996: Failed launch caused by attempt to convert floating point number to integer
+
