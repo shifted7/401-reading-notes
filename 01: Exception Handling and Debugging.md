@@ -9,7 +9,8 @@ try
   }
 catch (<error name> e)
   {
-  }```
+  }
+```
 
 ## Exception Handling
 - Statement keywords
