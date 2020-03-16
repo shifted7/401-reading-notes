@@ -2,14 +2,14 @@
 ## Try/Catch blocks
 - Place code that might raise or throw an exception in a try block
 - Place code to execute during exception inside a catch block
-- `using System;`
-- `using System.IO;`
-- `try`
--   `{`
--   `}`
-- `catch (<error name> e)`
--   `{`
--   `}`
+`using System;
+using System.IO;
+try
+  {
+  }
+catch (<error name> e)
+  {
+  }`
 
 ## Exception Handling
 - Statement keywords
