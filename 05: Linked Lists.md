@@ -59,3 +59,17 @@ ALGORITHM Add(newNode)
 ### Prerequisites
 - When making your node class, should require each node has a value
 - When making the list, you should require that at least one node gets passed in, to be the head and current.
+
+## What's a Linked List, Anyway? [Parts 1 and 2]
+
+- Linear data structure
+- Similar to arrays, but they are different due to memory management
+
+### Memory management
+- Linked lists allow dynamic resizing
+- Different items can be located in different places in memory (arrays need to be next to each other)
+
+### Growing a linked list
+- We can add an item to the beginning in O(n) time, no matter how big our list is
+
+
