@@ -17,7 +17,10 @@
   - The controller creates and populates these ViewModel instances from the model.
   
 #### View Responsibilities
-- 
+- Present content through the user interface.
+- Use the Razor view engine to embed code in HTML markup.
+- Minimal logic, and any logic should relate to presenting content.
+  - If we need a great deal of logic, consider using a view component, ViewModel, or view template to simplify the view.
 
 #### Controller Responsibilities
 - Handle user interaction, work with the model, and select a view to render.
