@@ -1,4 +1,4 @@
-# Reading 10: Relational Databases
+# Reading 11: Relational Databases
 - A schema is like a blueprint for a database.
 - Database keys relate data in different tables.
 
