@@ -19,3 +19,7 @@
     
 ### Multiple Policy Evaluation
 - If multiple policies are applied to a controller or action, all policies must pass before access is granted
+
+## .NET Escapades: Introduction to Authentication with ASP.NET Core
+
+## Free-time Programmer: ASP.NET Core 2.0 Authentication and Authorization System Demystified
