@@ -5,3 +5,4 @@
 - Implement in Razor Pages:
   - In cshtml.cs file, above class:
     - [Authorize(Policy="AgeOver21")]
+## Custom Authorization Policy Providers using IAuthorizationPolicyProvider in ASP.NET Core
