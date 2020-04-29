@@ -1,4 +1,4 @@
-# Reading 32: OAuth
+# Reading 32: Sending Emails
 ## SendGrid
 - Cloud-based email service
 - Reliable transactional email delivery
