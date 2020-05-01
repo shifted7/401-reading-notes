@@ -11,5 +11,14 @@
 - Learn to practice reading AND comprehension
 
 ## Authorize.Net - A Visa solution
+- Create sandbox account with merchant authentication
+- Enter sandbox credentials
+- Many API components
+- Can use API live console
+  - Provides sample code for the supported languages of the API
 
 ## Authorize.Net - Testing Guide
+- Testing in the sandbox is separate from the production environment and uses separate credentials.
+  - Using production codes in the sandbox returns Response Reason Code 13
+- Test card numbers included
+- Inputting different zip codes can create different responses.
